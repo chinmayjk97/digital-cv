@@ -3,7 +3,7 @@
 
 <div align="center">
   <img  src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/3fd577e1c9a28f951aefc528ca4e44e854866219/resources/snake.svg"
-       alt="snake" /></a>
+       alt="snake" />
 </div>
 
 <h2 style="display: inline-block" align="center">Confusion is part of Programming</h2>

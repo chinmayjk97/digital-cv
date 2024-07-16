@@ -6,5 +6,4 @@
        alt="snake" />
 </div>
 
-<h2 style="display: inline-block" align="center">Confusion is part of Programming</h2>
-
+<h2 style="display: inline-block" align="center">Confusion is part of Programming :) </h2>

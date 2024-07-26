@@ -180,7 +180,7 @@ The objective of developing PharmaAssist was to provide my colleagues easy acces
 <img src="https://raw.githubusercontent.com/chinmayjk97/PharmaAssist/master/images/Showcase-1.jpeg" alt="PharmaAssist App" width="500"/> 
 <img src="https://raw.githubusercontent.com/chinmayjk97/PharmaAssist/master/images/Showcase-2.jpeg" alt="PharmaAssist App" width="500"/> 
 
-- Watch the Promo Video:
+- Watch the Promo Video:  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=5K2faPpquR8" target="_blank">
  <img src="http://img.youtube.com/vi/5K2faPpquR8/maxresdefault.jpg" alt="Watch the video" width="560" height="315" border="10" />
 </a>

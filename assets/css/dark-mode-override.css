@@ -1,10 +1,16 @@
-/* set the background color to black when client requests dark mode and invert the colors
-   from post by user lewisl9029: https://news.ycombinator.com/item?id=26472246
- */
+:root {
+--shadow-color: #000;
+}
+
+.modal {
+box-shadow: 0 0 8px var(--shadow-color);
+}
 
 @media (prefers-color-scheme: dark) {
-    body {
-        background-color: black;
-        filter: hue-rotate(180deg) invert(90%);
-    }
+:root {
+  --shadow-color: #fff;
+}
+html {
+  filter: hue-rotate(180deg) invert(1);
+}
 }

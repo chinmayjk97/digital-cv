@@ -187,7 +187,7 @@ The objective of developing PharmaAssist was to provide my colleagues easy acces
 </a>
 </div> 
 
-2. Creator for <a href="https://www.youtube.com/c/PharmaKnowledge"><img width="25" src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/youtube.png"
+2. Creator for <a href="https://www.youtube.com/c/PharmaKnowledge"><img width="20" src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/youtube.png"
        alt="Pharma Knowledge YouTube Channel"/></a> YouTube Channel - Pharma Knowledge for passion  
    The objective was to deliver the educational content in Audio-Visual format for better understanding. Earlier I had uploaded .ppt files converted to video, but later learnt to develop videos from scratch using Adobe Premiere Pro - The best video according to me is [Understanding Clinical Trials | Drug Discovery | The Journey of Medical Research](https://www.youtube.com/watch?v=0Y2lkSyeQf8).
 <br><br>  

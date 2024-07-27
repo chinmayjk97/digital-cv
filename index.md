@@ -6,7 +6,7 @@
        alt="snake" />
 </div>
 
-<h3 style="display: inline-block" align="center">Confusion is part of Programming :) </h3>
+<div align="center"> <h3 style="display: inline-block" align="center">Confusion is part of Programming :) </h3></div>
 
 
 ## CAREER SUMMARY

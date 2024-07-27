@@ -3,10 +3,3 @@
 header {
   display: none;
 }
-
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: black;
-        filter: hue-rotate(180deg) invert(90%);
-    }
-}

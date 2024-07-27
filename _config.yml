@@ -1,14 +1,12 @@
-remote_theme: pages-themes/primer@v0.6.0
+remote_theme: dunkmann00/primer@v0.15.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+primer:
+  theme: dark
 
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+primer:
+  home_heading: false 
 
-highlighter: rouge
-  
 name: Chinmay Kulkarni CV
 title: false

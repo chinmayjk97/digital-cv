@@ -41,7 +41,7 @@ FROM
 WHERE 
     lab_value > upper_reference_limit
     OR lab_value < lower_reference_limit;
-{% endhighlight %}
+```
 
 SAS
 ```sas

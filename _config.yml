@@ -7,6 +7,8 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+
+highlighter: rouge
   
 name: Chinmay Kulkarni CV
 title: false

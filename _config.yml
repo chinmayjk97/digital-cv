@@ -5,3 +5,4 @@ plugins:
 
 primer:
   theme: dark
+  home_heading: false

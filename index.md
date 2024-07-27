@@ -181,17 +181,20 @@ The objective of developing PharmaAssist was to provide my colleagues easy acces
 <img src="https://raw.githubusercontent.com/chinmayjk97/PharmaAssist/master/images/Showcase-2.jpeg" alt="PharmaAssist App" width="500"/> 
 
 - Watch the Promo Video:  
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=5K2faPpquR8" target="_blank">
+<div align="center">
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=5K2faPpquR8" target="_blank">
  <img src="http://img.youtube.com/vi/5K2faPpquR8/maxresdefault.jpg" alt="Watch the video" width="560" height="315" border="10" />
 </a>
+</div> 
 
-2. Creator for <a href="https://www.youtube.com/c/PharmaKnowledge"><img width="30" src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/youtube.png"
+2. Creator for <a href="https://www.youtube.com/c/PharmaKnowledge"><img width="25" src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/youtube.png"
        alt="Pharma Knowledge YouTube Channel"/></a> YouTube Channel - Pharma Knowledge for passion  
    The objective was to deliver the educational content in Audio-Visual format for better understanding. Earlier I had uploaded .ppt files converted to video, but later learnt to develop videos from scratch using Adobe Premiere Pro - The best video according to me is [Understanding Clinical Trials | Drug Discovery | The Journey of Medical Research](https://www.youtube.com/watch?v=0Y2lkSyeQf8).
-<br><br>
-
+<br><br>  
+<div align="center">  
 <a href="https://www.youtube.com/c/PharmaKnowledge"><img width="400" src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/PK_Cover.jpg"
        alt="Pharma Knowledge YouTube Channel" /></a>  
+</div>  
 
 ***
 

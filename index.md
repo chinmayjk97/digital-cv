@@ -191,9 +191,9 @@ The objective of developing PharmaAssist was to provide my colleagues easy acces
 <br><br>
 
 <a href="https://www.youtube.com/c/PharmaKnowledge"><img width="400" src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/PK_Cover.jpg"
-       alt="Pharma Knowledge YouTube Channel" /></a>
-***
+       alt="Pharma Knowledge YouTube Channel" /></a>  
 
+***
 
 <div align="center">
 <h3>🤙 Contact Me </h3> <a href="[https://www.linkedin.com/in/azzar-budiyanto/](https://www.linkedin.com/in/chinmay-kulkarni97/)" target="blank"><img align="center"

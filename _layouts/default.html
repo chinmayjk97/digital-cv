@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}" {% include theme.html %}>
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,9 +11,10 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      {% if site.title and site.title != page.title %}
+      {% capture heading %}{% if page.layout == "home" and site.primer.home_heading == false %}false{% else %}true{% endif %}{% endcapture -%}
+      {% if site.title and site.title != page.title and heading == "true" %}
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-      {% endif %}
+      {%- endif %}
 
       {{ content }}
 
@@ -23,6 +24,16 @@
       </div>
       {% endif %}
     </div>
+    <template id=clipboard_template>
+      <div>
+        <clipboard-copy aria-label="Copy" class="btn btn-invisible m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" tabindex="0" role="button">
+          {% octicon copy height:16 %}
+          {% octicon check height:16 class:"color-fg-success d-none" %}
+        </clipboard-copy>
+      </div>
+    </template>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
+    <script type="module" src="{{ "/assets/js/primer-clipboard-copy.js?v=" | append: site.github.build_revision | relative_url }}"></script>
   </body>
 </html>

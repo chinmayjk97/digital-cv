@@ -7,9 +7,19 @@ header {
   display: none;
 }
 
+:root {
+  --shadow-color: #000;
+}
+
+.modal {
+  box-shadow: 0 0 8px var(--shadow-color);
+}
+
 @media (prefers-color-scheme: dark) {
-    body {
-        background-color: black;
-        filter: hue-rotate(180deg) invert(90%);
-    }
+  :root {
+    --shadow-color: #fff;
+  }
+  html {
+    filter: hue-rotate(180deg) invert(1);
+  }
 }

@@ -2,4 +2,4 @@ theme: jekyll-theme-primer
 
 name: Chinmay Kulkarni CV
 title: false
-markdown: kramdown
+markdown: GFM

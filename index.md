@@ -176,10 +176,10 @@ MF Analysis
 
 1. **PharmaAssist** Android App  
 The objective of developing PharmaAssist was to provide my colleagues easy access to academic books and other relevant study material and also to utilize my programming passion.
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/chinmayjk97/PharmaAssist/master/images/Showcase-1.jpeg" alt="PharmaAssist App" width="500"/> 
 <img src="https://raw.githubusercontent.com/chinmayjk97/PharmaAssist/master/images/Showcase-2.jpeg" alt="PharmaAssist App" width="500"/> 
-
+</div>  
 - Watch the Promo Video:  
 <div align="center">
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=5K2faPpquR8" target="_blank">

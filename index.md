@@ -30,7 +30,7 @@ Experienced professional with 3+ years of experience in Life sciences Analytics 
 - **Programming Languages:**
 
 SQL
-```SQL
+```sql
 -- Retrieve all patients with abnormal lab results
 SELECT 
     patient_id,
@@ -41,10 +41,10 @@ FROM
 WHERE 
     lab_value > upper_reference_limit
     OR lab_value < lower_reference_limit;
-```
+{% endhighlight %}
 
 SAS
-```SAS
+```sas
 /* Calculate the mean and standard deviation of a variable */
 proc means data=clinical_data mean std;
     var blood_pressure;
@@ -52,7 +52,7 @@ run;
 ```
 
 R
-```R
+```r
 # Load necessary libraries
 library(dplyr)
 
@@ -66,7 +66,7 @@ clinical_summary <- clinical_data %>%
 ```
 
 Python
-```Python
+```python
 import pandas as pd
 clinical_data = pd.read_csv('clinical_data.csv')
 
@@ -80,7 +80,7 @@ print(high_cholesterol.head())
 ```
 
 Java
-```Java
+```java
 package com.cjk.pharmaassist;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -97,7 +97,7 @@ public class MainActivity extends AppCompatActivity{
 ```
 
 Kotlin
-```Kotlin
+```kotlin
 fun main() {
     println("Hello World!")
 }

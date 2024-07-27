@@ -4,8 +4,6 @@ plugins:
 
 primer:
   theme: dark
-
-primer:
   home_heading: false 
 
 name: Chinmay Kulkarni CV

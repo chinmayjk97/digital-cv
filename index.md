@@ -17,10 +17,10 @@ Experienced professional with 3+ years of experience in Life sciences Analytics 
 
 ## KEY STRENGTHS & SKILLS
 
-### Domains
-- 📊 Business Analytics
-- 💊 Clinical Data Management (CDM)
-- ✍ Medical Writing
+### Domains   
+- 📊 Business Analytics  
+- 💊 Clinical Data Management (CDM)  
+- ✍ Medical Writing  
 
 ### Technical Skills
 - **Data Visualization Tools:** 
@@ -108,7 +108,7 @@ fun main() {
 
 - **Clinical Systems:** IWRS, RTSM, EDC, DMW, ePID, SDTM
 - **Regulatory Databases:** Clinicaltrials.gov, EMA (EudraCT), PubMed, ISRCTN, Springer Nature
-- **Proficient in MS Office:** Advanced Excel, Word, PowerPoint
+- **Proficient in MS Office:** Advanced Excel, Word, PowerPoint  
 
 <br>
 

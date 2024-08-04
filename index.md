@@ -200,17 +200,20 @@ Of these Java and Kotlin were for hobby projects.</p>
 
 ## PROJECTS
 
-### Credit Card Statement Scrapping & Analysis
+- Credit Card Statement Scrapping & Analysis
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/Credit Card Statement Scrapping & Analysis.png" alt="Credit Card Statement Scrapping & Analysis.png" width="700"/> 
 </div>  
 
-### Mutual Portfolio Analysis
+- Mutual Portfolio Analysis
+<div align="center">
+<img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/Mutual Portfolio Analysis.png" alt="Mutual Portfolio Analysis.png" width="700"/> 
+</div> 
+
 
 ```
 Excel / Power BI adhoc projects
-MF Analysis
 ```
 
 <blockquote class="note">

@@ -16,6 +16,8 @@ blockquote.note {
     border-left: 5px solid #1f6feb;
 }
 
+blockquote.note > span {color: #1f6feb;}
+
 blockquote.imp {
     border-left: 5px solid #8957e5;
     color: #ab7df8;

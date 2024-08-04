@@ -2,3 +2,8 @@
 ---
 
 @import "jekyll-v4-theme-primer";
+
+blockquote.info {
+    border-left: 5px solid #FF0000;
+    background-color: #000000;
+}

@@ -152,19 +152,19 @@ Credly badges showcase
 ```
 
 <a href="https://www.credly.com/badges/092650e5-8787-42a0-bb53-4425f180ad9f/public_url" target="_blank">
- <img src="/resources/badges/SQL for Data Science with R Essentials.png" alt="SQL for Data Science with R Essentials" width="150"/>
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/SQL for Data Science with R Essentials.png" alt="SQL for Data Science with R Essentials" width="150"/>
 </a>  
 
 <a href="https://www.credly.com/badges/eb7df71f-2a7e-411f-988f-58742136168d/public_url" target="_blank">
- <img src="/resources/badges/Data Analysis with R.png" alt="Data Analysis with R" width="150"/>
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/Data Analysis with R.png" alt="Data Analysis with R" width="150"/>
 </a>  
 
 <a href="https://www.credly.com/badges/8102b667-eff2-4636-a471-d19fad31d068/public_url" target="_blank">
- <img src="/resources/badges/R Programming for Data Science Essentials.png" alt="R Programming for Data Science Essentials" width="150"/>
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/R Programming for Data Science Essentials.png" alt="R Programming for Data Science Essentials" width="150"/>
 </a>  
 
 <a href="https://www.credly.com/badges/fca2122a-1589-4881-b055-9c20c2f66ad9/public_url" target="_blank">
- <img src="/resources/badges/Tableau Desktop Specialist.png" alt="Tableau Desktop Specialist" width="150"/>
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/Tableau%20Desktop%20Specialist.png" alt="Tableau Desktop Specialist" width="150"/>
 </a>  
 
 <!--

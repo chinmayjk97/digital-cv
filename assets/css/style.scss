@@ -7,7 +7,27 @@ header {
   display: none;
 }
 
-blockquote.info {
-    border-left: 5px solid #FF0000;
-    background-color: #000000;
+blockquote.tip {
+    border-left: 5px solid #09b43a;
+    color: #28d751;
+}
+
+blockquote.note {
+    border-left: 5px solid #1f6feb;
+    color: #4493f8;
+}
+
+blockquote.imp {
+    border-left: 5px solid #8957e5;
+    color: #ab7df8;
+}
+
+blockquote.warn {
+    border-left: 5px solid #9e6a03;
+    color: #d29922;
+}
+
+blockquote.caution {
+    border-left: 5px solid #da3633;
+    color: #f85149;
 }

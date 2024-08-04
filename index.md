@@ -174,8 +174,8 @@ MF Analysis
 ```
 
 <blockquote class="note">
-<p style="color: #4493f8;">📌 Note<br></p>
-<p>Below Projects are no longer maintained.</p>
+<p><span style="color: #4493f8;">📌 Note</span><br>
+Below Projects are no longer maintained.</p>
 </blockquote>
 
 - **PharmaAssist** Android App  

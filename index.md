@@ -104,12 +104,9 @@ fun main() {
 ```
 
 <blockquote class="info">
-<p>💡 TIP</span><br>
+<p>💡 TIP<br>
 Of these Java and Kotlin were for hobby projects.</p>
 </blockquote>
-
-> [!TIP]  
-> Of these Java and Kotlin were for hobby projects.
 
 - **Clinical Systems:** IWRS, RTSM, EDC, DMW, ePID, SDTM
 - **Regulatory Databases:** Clinicaltrials.gov, EMA (EudraCT), PubMed, ISRCTN, Springer Nature
@@ -176,8 +173,10 @@ CC scraping
 MF Analysis
 ```
 
-> [!NOTE]
-> Below Projects are no longer maintained.
+<blockquote class="note">
+<p>💡 Note<br>
+Below Projects are no longer maintained.</p>
+</blockquote>
 
 - **PharmaAssist** Android App  
 The objective of developing PharmaAssist was to provide my colleagues easy access to academic books and other relevant study material and also to utilize my programming passion.

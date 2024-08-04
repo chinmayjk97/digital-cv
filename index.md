@@ -135,8 +135,8 @@ Of these Java and Kotlin were for hobby projects.</p>
 
 | Organization |     |
 | :-----: | :--- |
-| <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/novo.png" width="50"/><br>Novo Nordisk | Functional Programmer<br><i>Nov 2022 – Present</i><br><br><b>Domains:</b><br> - 📊 Business Analytics  - 💊 Clinical Data Management (CDM)</li></ul>|
-| <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/xogene.png" width="50"/><br>Xogene Solutions | Clinical Trial Transparency Analyst<br><i>July 2021 – Nov 2022</i><br><br><b>Domains:</b><br> - ✍ Medical Writing</li></ul>    | 
+| <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/novo.png" width="50"/><br>Novo Nordisk | Functional Programmer<br><i>Nov 2022 – Present</i><br><br><b>Domains:</b><br> - 📊 Business Analytics<br>- 💊 Clinical Data Management (CDM)</li></ul>|
+| <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/xogene.png" width="50"/><br>Xogene Solutions | Clinical Trial Transparency Analyst<br><i>July 2021 – Nov 2022</i><br><br><b>Domains:</b><br> - ✍ Medical Writing   | 
 
 ---
 
@@ -219,7 +219,7 @@ The objective of developing PharmaAssist was to provide my colleagues easy acces
 </div> 
 
 - Creator for <a href="https://www.youtube.com/c/PharmaKnowledge"><img width="20" src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/youtube.png"
-       alt="Pharma Knowledge YouTube Channel"/></a> YouTube Channel - Pharma Knowledge for passion  
+       alt="Pharma Knowledge YouTube Channel"/></a> <b>YouTube Channel</b> - Pharma Knowledge for passion  
    The objective was to deliver the educational content in Audio-Visual format for better understanding. Earlier I had uploaded .ppt files converted to video, but later learnt to develop videos from scratch using Adobe Premiere Pro - The best video according to me is [Understanding Clinical Trials | Drug Discovery | The Journey of Medical Research](https://www.youtube.com/watch?v=0Y2lkSyeQf8).
 <br><br>  
 <div align="center">  

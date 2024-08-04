@@ -135,7 +135,7 @@ Of these Java and Kotlin were for hobby projects.</p>
 
 ### Novo Nordisk
 
-**Functional Programmer** (Apr 2024 – Present)  
+**Functional Programmer** (Nov 2022 – Present)  
 
 
 ### Xogene Solutions Pvt. Ltd., Pune
@@ -148,7 +148,14 @@ Of these Java and Kotlin were for hobby projects.</p>
 ## CERTIFICATIONS & BADGES
 
 - Programming:
-
+  - [IBM Data Analytics with Excel and R Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/C5JQWE8W528S)
+  - [SQL for Data Science with R by IBM](https://www.coursera.org/account/accomplishments/certificate/VFRATFGSSAVZ)
+  - [SQL- The Complete Introduction to SQL programming, Udemy](https://www.udemy.com/certificate/UC-398109d9-ea7c-4538-bbac-eb4f7ce6c7de/)
+  - [Introduction to R Programming for Data Science by IBM](https://www.coursera.org/account/accomplishments/certificate/XMR6SKTR5RUB)
+  - [Introduction to Data Analytics by IBM](https://coursera.org/share/ebb8f0ed2b8eb4e3cfdc4c46af9d9ba0)
+  - [Excel Basics for Data Analysis by IBM](https://coursera.org/share/7d929965e12260e14976a59f3329223a)
+  - [Python A-Z™: Python for Data Science, Udemy](https://www.udemy.com/certificate/UC-7dbc21ae-1d63-46a7-b83f-84e8bc1bf8e8/)
+    
 <a href="https://www.credly.com/badges/af1c7824-d8c6-494b-b1d1-42d1f3ff4d62/public_url" target="_blank">
  <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/Data Science with R - Capstone Project.png" alt="Data Science with R - Capstone Project" width="150"/>
 </a>
@@ -167,14 +174,17 @@ Of these Java and Kotlin were for hobby projects.</p>
 <a href="https://www.credly.com/badges/ff86ac06-cd03-4396-a300-9ad4640d11b7/public_url" target="_blank">
  <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/Data Analytics Essentials.png" alt="Data Analytics Essentials" width="150"/></a>
 
+
+
  - SAS Certifications: [Programming Essentials](https://www.credly.com/badges/66dfefd4-c8f3-4c16-9cee-585df5a7c58a/public_url), [Data Manipulation Techniques](https://www.credly.com/badges/03491c4e-3ef2-4976-8bac-e87423705654/public_url), [SAS SQL Essentials](https://www.credly.com/badges/ae812d61-0dd3-4314-a329-969edb80f43d/public_url), [SAS Macro Essentials](https://www.credly.com/badges/f94b12e3-5cee-4bff-9570-5e01713c18b0/public_url), [Programming Advanced Techniques](https://www.credly.com/badges/8c20650d-2fd4-4e76-b4d6-1fbc3c67b3a7/public_url)  
 
 <a href="https://www.credly.com/badges/8c20650d-2fd4-4e76-b4d6-1fbc3c67b3a7/public_url" target="_blank">
- <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/SAS.png" alt="SAS Programming Advanced Techniques" width="150"/>
-</a>  
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/SAS.png" alt="SAS Programming Advanced Techniques" width="150"/></a>  x5  
 
 - Visualizations:
-
+  - [Microsoft Power BI Desktop for Business Intelligence, Udemy](https://www.udemy.com/certificate/UC-688bb48a-6abf-4610-8145-f2747d9391ce/)
+  - [Data Storytelling and Data Visualization, Udemy](https://www.udemy.com/certificate/UC-355c86fe-3a77-4a45-922d-37a53b6c1493/)
+  
 <a href="https://www.credly.com/badges/8ec0ac7c-04a9-4e7a-8f28-66db5dff58f7/public_url" target="_blank">
  <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/Data Visualization & Dashboard Essentials.png" alt="Data Visualization & Dashboard Essentials" width="150"/>
 </a>
@@ -185,20 +195,7 @@ Of these Java and Kotlin were for hobby projects.</p>
  <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/Tableau%20Desktop%20Specialist.png" alt="Tableau Desktop Specialist" width="150"/>
 </a>  
 
-<!--
 
-- [SAS® Base and Advanced – SAS Institute](https://www.credly.com/badges/8c20650d-2fd4-4e76-b4d6-1fbc3c67b3a7) [Credly Profile](https://www.credly.com/badges/8c20650d-2fd4-4e76-b4d6-1fbc3c67b3a7)
-- [IBM Data Analytics with Excel and R Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/C5JQWE8W528S)
-- [SQL for Data Science with R by IBM](https://www.coursera.org/account/accomplishments/certificate/VFRATFGSSAVZ)
-- [Introduction to R Programming for Data Science by IBM](https://www.coursera.org/account/accomplishments/certificate/XMR6SKTR5RUB)
-- [Introduction to Data Analytics by IBM](https://coursera.org/share/ebb8f0ed2b8eb4e3cfdc4c46af9d9ba0)
-- [Excel Basics for Data Analysis by IBM](https://coursera.org/share/7d929965e12260e14976a59f3329223a)
-- [Microsoft Power BI Desktop for Business Intelligence, Udemy](https://www.udemy.com/certificate/UC-688bb48a-6abf-4610-8145-f2747d9391ce/)
-- [Python A-Z™: Python for Data Science, Udemy](https://www.udemy.com/certificate/UC-7dbc21ae-1d63-46a7-b83f-84e8bc1bf8e8/)
-- [SQL- The Complete Introduction to SQL programming, Udemy](https://www.udemy.com/certificate/UC-398109d9-ea7c-4538-bbac-eb4f7ce6c7de/)
-- [Data Storytelling and Data Visualization, Udemy](https://www.udemy.com/certificate/UC-355c86fe-3a77-4a45-922d-37a53b6c1493/)
-
--->
 ---
 
 ## PROJECTS

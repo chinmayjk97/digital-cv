@@ -1,11 +1,7 @@
-remote_theme: dunkmann00/primer@v0.12.0
+remote_theme: pages-themes/primer@v0.6.0
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-primer:
-- home_heading: true
-- theme: dark
 
 name: Chinmay Kulkarni CV
 title: false

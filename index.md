@@ -174,7 +174,7 @@ MF Analysis
 ```
 
 <blockquote class="note">
-<p>💡 Note<br>
+<p>📌 Note<br>
 Below Projects are no longer maintained.</p>
 </blockquote>
 

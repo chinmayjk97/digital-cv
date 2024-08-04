@@ -171,7 +171,12 @@ Of these Java and Kotlin were for hobby projects.</p>
 
 
 
- - SAS Certifications: [Programming Essentials](https://www.credly.com/badges/66dfefd4-c8f3-4c16-9cee-585df5a7c58a/public_url), [Data Manipulation Techniques](https://www.credly.com/badges/03491c4e-3ef2-4976-8bac-e87423705654/public_url), [SAS SQL Essentials](https://www.credly.com/badges/ae812d61-0dd3-4314-a329-969edb80f43d/public_url), [SAS Macro Essentials](https://www.credly.com/badges/f94b12e3-5cee-4bff-9570-5e01713c18b0/public_url), [Programming Advanced Techniques](https://www.credly.com/badges/8c20650d-2fd4-4e76-b4d6-1fbc3c67b3a7/public_url)  
+ - SAS Certifications:
+   - [Programming Essentials](https://www.credly.com/badges/66dfefd4-c8f3-4c16-9cee-585df5a7c58a/public_url)
+   - [Data Manipulation Techniques](https://www.credly.com/badges/03491c4e-3ef2-4976-8bac-e87423705654/public_url)
+   - [SAS SQL Essentials](https://www.credly.com/badges/ae812d61-0dd3-4314-a329-969edb80f43d/public_url)
+   - [SAS Macro Essentials](https://www.credly.com/badges/f94b12e3-5cee-4bff-9570-5e01713c18b0/public_url)
+   - [Programming Advanced Techniques](https://www.credly.com/badges/8c20650d-2fd4-4e76-b4d6-1fbc3c67b3a7/public_url)  
 
 <a href="https://www.credly.com/badges/8c20650d-2fd4-4e76-b4d6-1fbc3c67b3a7/public_url" target="_blank">
  <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/SAS.png" alt="SAS Programming Advanced Techniques" width="150"/></a>  x5  
@@ -194,9 +199,17 @@ Of these Java and Kotlin were for hobby projects.</p>
 ---
 
 ## PROJECTS
+
+### Credit Card Statement Scrapping & Analysis
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/Credit Card Statement Scrapping & Analysis.png" alt="Credit Card Statement Scrapping & Analysis.png" width="700"/> 
+</div>  
+
+### Mutual Portfolio Analysis
+
 ```
 Excel / Power BI adhoc projects
-CC scraping
 MF Analysis
 ```
 

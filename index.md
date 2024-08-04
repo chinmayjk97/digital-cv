@@ -135,8 +135,8 @@ Of these Java and Kotlin were for hobby projects.</p>
 
 | Organization |     |
 | :-----: | :--- |
-| <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/novo.png" width="50"/><br>Novo Nordisk | Functional Programmer<br><i>Nov 2022 – Present</i><br><br><b>Domains:</b><br><ul><li>📊 Business Analytics</li><li>💊 Clinical Data Management (CDM)</li></ul>|
-| <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/xogene.png" width="50"/><br>Xogene Solutions | Clinical Trial Transparency Analyst<br><i>July 2021 – Nov 2022</i><br><br><b>Domains:</b><br><ul><li>✍ Medical Writing</li></ul>    | 
+| <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/novo.png" width="50"/><br>Novo Nordisk | Functional Programmer<br><i>Nov 2022 – Present</i><br><br><b>Domains:</b><br> - 📊 Business Analytics  - 💊 Clinical Data Management (CDM)</li></ul>|
+| <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/xogene.png" width="50"/><br>Xogene Solutions | Clinical Trial Transparency Analyst<br><i>July 2021 – Nov 2022</i><br><br><b>Domains:</b><br> - ✍ Medical Writing</li></ul>    | 
 
 ---
 

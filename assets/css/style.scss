@@ -1,7 +1,11 @@
 ---
 ---
 
-@import "jekyll-v4-theme-primer";
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
 
 blockquote.info {
     border-left: 5px solid #FF0000;

@@ -104,7 +104,7 @@ fun main() {
 ```
 
 <blockquote class="tip">
-<p>💡 TIP<br>
+<p><span>💡 TIP</span><br>
 Of these Java and Kotlin were for hobby projects.</p>
 </blockquote>
 

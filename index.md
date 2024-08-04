@@ -147,22 +147,40 @@ Of these Java and Kotlin were for hobby projects.</p>
 
 ## CERTIFICATIONS & BADGES
 
-```
-Credly badges showcase
-```
+- Programming:
 
-<a href="https://www.credly.com/badges/092650e5-8787-42a0-bb53-4425f180ad9f/public_url" target="_blank">
- <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/SQL for Data Science with R Essentials.png" alt="SQL for Data Science with R Essentials" width="150"/>
-</a>  
-
+<a href="https://www.credly.com/badges/af1c7824-d8c6-494b-b1d1-42d1f3ff4d62/public_url" target="_blank">
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/Data Science with R - Capstone Project.png" alt="Data Science with R - Capstone Project" width="150"/>
+</a>
 <a href="https://www.credly.com/badges/eb7df71f-2a7e-411f-988f-58742136168d/public_url" target="_blank">
  <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/Data Analysis with R.png" alt="Data Analysis with R" width="150"/>
-</a>  
-
+</a>
+<a href="https://www.credly.com/badges/ac944718-4b9e-4bdf-b7db-7610e3f36882/public_url" target="_blank">
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/Excel Essentials for Data Analytics.png" alt="Excel Essentials for Data Analytics" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/092650e5-8787-42a0-bb53-4425f180ad9f/public_url" target="_blank">
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/SQL for Data Science with R Essentials.png" alt="SQL for Data Science with R Essentials" width="150"/>
+</a>
 <a href="https://www.credly.com/badges/8102b667-eff2-4636-a471-d19fad31d068/public_url" target="_blank">
  <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/R Programming for Data Science Essentials.png" alt="R Programming for Data Science Essentials" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/ff86ac06-cd03-4396-a300-9ad4640d11b7/public_url" target="_blank">
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/Data Analytics Essentials.png" alt="Data Analytics Essentials" width="150"/></a>
+
+ - SAS Certifications: [Programming Essentials](https://www.credly.com/badges/66dfefd4-c8f3-4c16-9cee-585df5a7c58a/public_url), [Data Manipulation Techniques](https://www.credly.com/badges/03491c4e-3ef2-4976-8bac-e87423705654/public_url), [SAS SQL Essentials](https://www.credly.com/badges/ae812d61-0dd3-4314-a329-969edb80f43d/public_url), [SAS Macro Essentials](https://www.credly.com/badges/f94b12e3-5cee-4bff-9570-5e01713c18b0/public_url), [Programming Advanced Techniques](https://www.credly.com/badges/8c20650d-2fd4-4e76-b4d6-1fbc3c67b3a7/public_url)  
+
+<a href="https://www.credly.com/badges/8c20650d-2fd4-4e76-b4d6-1fbc3c67b3a7/public_url" target="_blank">
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/SAS.png" alt="SAS Programming Advanced Techniques" width="150"/>
 </a>  
 
+- Visualizations:
+
+<a href="https://www.credly.com/badges/8ec0ac7c-04a9-4e7a-8f28-66db5dff58f7/public_url" target="_blank">
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/Data Visualization & Dashboard Essentials.png" alt="Data Visualization & Dashboard Essentials" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/26d9a715-31fe-4c7b-9815-afd4f9cf077f/public_url" target="_blank">
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/Data Visualization with R.png" alt="Data Visualization with R" width="150"/>
+</a>
 <a href="https://www.credly.com/badges/fca2122a-1589-4881-b055-9c20c2f66ad9/public_url" target="_blank">
  <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/Tableau%20Desktop%20Specialist.png" alt="Tableau Desktop Specialist" width="150"/>
 </a>  

@@ -103,6 +103,11 @@ fun main() {
 }
 ```
 
+<blockquote class="info">
+<p>💡 TIP</span><br>
+Of these Java and Kotlin were for hobby projects.</p>
+</blockquote>
+
 > [!TIP]  
 > Of these Java and Kotlin were for hobby projects.
 

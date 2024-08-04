@@ -102,7 +102,7 @@ fun main() {
     println("Hello World!")
 }
 ```
-
+<!-- tags colours https://github.com/orgs/community/discussions/16925#discussioncomment-10157785-->
 <blockquote class="tip">
 <p><span>💡 TIP</span><br>
 Of these Java and Kotlin were for hobby projects.</p>
@@ -150,6 +150,23 @@ Of these Java and Kotlin were for hobby projects.</p>
 ```
 Credly badges showcase
 ```
+
+<a href="https://www.credly.com/badges/092650e5-8787-42a0-bb53-4425f180ad9f/public_url" target="_blank">
+ <img src="/resources/badges/SQL for Data Science with R Essentials.png" alt="SQL for Data Science with R Essentials" width="150"/>
+</a>  
+
+<a href="https://www.credly.com/badges/eb7df71f-2a7e-411f-988f-58742136168d/public_url" target="_blank">
+ <img src="/resources/badges/Data Analysis with R.png" alt="Data Analysis with R" width="150"/>
+</a>  
+
+<a href="https://www.credly.com/badges/8102b667-eff2-4636-a471-d19fad31d068/public_url" target="_blank">
+ <img src="/resources/badges/R Programming for Data Science Essentials.png" alt="R Programming for Data Science Essentials" width="150"/>
+</a>  
+
+<a href="https://www.credly.com/badges/fca2122a-1589-4881-b055-9c20c2f66ad9/public_url" target="_blank">
+ <img src="/resources/badges/Tableau Desktop Specialist.png" alt="Tableau Desktop Specialist" width="150"/>
+</a>  
+
 <!--
 
 - [SAS® Base and Advanced – SAS Institute](https://www.credly.com/badges/8c20650d-2fd4-4e76-b4d6-1fbc3c67b3a7) [Credly Profile](https://www.credly.com/badges/8c20650d-2fd4-4e76-b4d6-1fbc3c67b3a7)

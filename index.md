@@ -152,22 +152,22 @@ Of these Java and Kotlin were for hobby projects.</p>
   - [Python A-Z™: Python for Data Science, Udemy](https://www.udemy.com/certificate/UC-7dbc21ae-1d63-46a7-b83f-84e8bc1bf8e8/)
     
 <a href="https://www.credly.com/badges/af1c7824-d8c6-494b-b1d1-42d1f3ff4d62/public_url" target="_blank">
- <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/Data Science with R - Capstone Project.png" alt="Data Science with R - Capstone Project" width="150"/>
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/Data%20Science%20with%20R%20-%20Capstone%20Project.png" alt="Data Science with R - Capstone Project" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/eb7df71f-2a7e-411f-988f-58742136168d/public_url" target="_blank">
- <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/Data Analysis with R.png" alt="Data Analysis with R" width="150"/>
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/Data%20Analysis%20with%20R.png" alt="Data Analysis with R" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/ac944718-4b9e-4bdf-b7db-7610e3f36882/public_url" target="_blank">
- <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/Excel Essentials for Data Analytics.png" alt="Excel Essentials for Data Analytics" width="150"/>
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/Excel%20Essentials%20for%20Data%20Analytics.png" alt="Excel Essentials for Data Analytics" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/092650e5-8787-42a0-bb53-4425f180ad9f/public_url" target="_blank">
- <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/SQL for Data Science with R Essentials.png" alt="SQL for Data Science with R Essentials" width="150"/>
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/SQL%20for%20Data%20Science%20with%20R%20Essentials.png" alt="SQL for Data Science with R Essentials" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/8102b667-eff2-4636-a471-d19fad31d068/public_url" target="_blank">
- <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/R Programming for Data Science Essentials.png" alt="R Programming for Data Science Essentials" width="150"/>
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/R%20Programming%20for%20Data%20Science%20Essentials.png" alt="R Programming for Data Science Essentials" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/ff86ac06-cd03-4396-a300-9ad4640d11b7/public_url" target="_blank">
- <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main//resources/badges/Data Analytics Essentials.png" alt="Data Analytics Essentials" width="150"/></a>
+ <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/Data%20Analytics%20Essentials.png" alt="Data Analytics Essentials" width="150"/></a>
 
 
 

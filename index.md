@@ -25,7 +25,7 @@ Experienced professional with 3+ years of experience in Life sciences Analytics 
 ### Technical Skills
 - **Data Visualization Tools:** 
   
-<img width="100" src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/Qliksense.jpg" alt="Qlik Sense">  <img width="100" src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/Power-BI.png" alt="Power BI">  <img width="100" src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/Tableau-Logo.png" alt="Tableau">  <img width="100" src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/excel.jfif" alt="Excel">
+ <a href="https://chinmayjk97.github.io/digital-cv/#projects"> <img width="100" src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/Qliksense.jpg" alt="Qlik Sense"> <img width="100" src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/Power-BI.png" alt="Power BI"> <img width="100" src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/Tableau-Logo.png" alt="Tableau">  <img width="100" src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/excel.jfif" alt="Excel"></a>
 
 - **Programming Languages:**
 
@@ -184,6 +184,7 @@ Of these Java and Kotlin were for hobby projects.</p>
 - Visualizations:
   - [Microsoft Power BI Desktop for Business Intelligence, Udemy](https://www.udemy.com/certificate/UC-688bb48a-6abf-4610-8145-f2747d9391ce/)
   - [Data Storytelling and Data Visualization, Udemy](https://www.udemy.com/certificate/UC-355c86fe-3a77-4a45-922d-37a53b6c1493/)
+  - [Tableau Desktop Specialist](https://www.credly.com/badges/fca2122a-1589-4881-b055-9c20c2f66ad9/public_url)
   
 <a href="https://www.credly.com/badges/8ec0ac7c-04a9-4e7a-8f28-66db5dff58f7/public_url" target="_blank">
  <img src="https://raw.githubusercontent.com/chinmayjk97/digital-cv/main/resources/badges/Data Visualization & Dashboard Essentials.png" alt="Data Visualization & Dashboard Essentials" width="150"/>
